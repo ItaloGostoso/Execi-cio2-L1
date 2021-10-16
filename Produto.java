@@ -20,15 +20,15 @@ public class Produto {
         }
     }
 
-    public String getnm() {
+    public String getnome() {
         return nm;
     }
 
-    public double getprec() {
+    public double getpreco() {
         return prec;
     }
 
-    public int getqut() {
+    public int getquantidade() {
         return qut;
     }
 
