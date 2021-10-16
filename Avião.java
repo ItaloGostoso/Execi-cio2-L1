@@ -1,4 +1,4 @@
-package Q3;
+package q3;
 
 public class Aviao {
     private int Altitude = 10;
