@@ -9,7 +9,7 @@ public class Contato {
     
     public Contato(String nome, String numero){
         this.nome = nome;
-        this.number = number;
+        this.number = numero;
     }
     public void enviar(String mg){
         System.out.println("Enviando: "+mg+"");
