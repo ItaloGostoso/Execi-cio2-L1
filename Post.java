@@ -31,7 +31,7 @@ public class Post {
         return lk;
     }
 
-    public void setlk(String link) {
+    public void setlk(String lk) {
         this.lk = lk;
     }
 
