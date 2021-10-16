@@ -15,7 +15,7 @@ public class Main {
          show(pac);
         
     }
-    public static void show(Paciente paz){
+    public static void show(Paciente pac){
       System.out.println("Paciente: " + pac.codigo);
       System.out.println("Nome: " + pac.nome);
       System.out.println("Nasceu em: " + pac.dataNascimento);
