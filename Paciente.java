@@ -60,7 +60,7 @@ public class Paciente {
     }
 
     public String getAlergia() {
-        return alergia;
+        return Alergia;
     }
 
     public void setAlergia(String alergia) {
