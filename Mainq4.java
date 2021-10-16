@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Quantidade em estoque após a compra: " + pelucia.getquantidade());
         pelucia.comprar(5);
         System.out.println("Quantidade em estoque após a compra: " + pelucia.getquantidade());
-        carro.comprar(10);
+        pelucia.comprar(10);
         System.out.println("Quantidade em estoque (pós compra): " + pelucia.getquantidade());            
     }
     
