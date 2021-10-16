@@ -6,7 +6,7 @@ public class Post {
    private int numeroCurtidas;
    private int numeroCompartilhamentos;
    
-   public Post(String text, String link){
+   public Post(String txt, String lk){
        this.texto = txt;
        this.link = lk;
        
